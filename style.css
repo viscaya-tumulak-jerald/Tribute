@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+img{
+    height: 400px;
+    width: 200px;
+    padding: 0 400px;
+    transition: 2.5;
+    
+    padding: 0 100px;
+
+}
+img:hover{
+    transform-style: ;
+    transform: scale(1.1);
+}
+h2{
+    text-decoration: underline;
+
+    
+}
